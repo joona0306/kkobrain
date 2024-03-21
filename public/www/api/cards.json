@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "link": "#",
+    "cardname": "AI Healthcare",
+    "cardno": 10,
+    "imgpath": "p1.png"
+  },
+  {
+    "id": 2,
+    "link": "#",
+    "cardname": "Brain Cloude",
+    "cardno": 4,
+    "imgpath": "p2.png"
+  },
+  {
+    "id": 3,
+    "link": "#",
+    "cardname": "Karlo",
+    "cardno": 24,
+    "imgpath": "p3.png"
+  },
+  {
+    "id": 4,
+    "link": "#",
+    "cardname": "Krew",
+    "cardno": 26,
+    "imgpath": "p4.png"
+  },
+  {
+    "id": 5,
+    "link": "#",
+    "cardname": "LLMs",
+    "cardno": 3,
+    "imgpath": "p5.png"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "link": "#",
+    "imgpath": "c1.jpg",
+    "category": "AI Helathcare",
+    "icon": "ic_aihealthcare.png",
+    "txtcolor": "#7738FF",
+    "title": "🎥 카카오브레인이 헬스케어를 하는 이유? (Feat. 최윤섭의 디지털헬스케어)",
+    "day": "2024.03.20"
+  },
+  {
+    "id": 2,
+    "link": "#",
+    "imgpath": "c2.png",
+    "category": "Krew",
+    "icon": "ic_krew.png",
+    "txtcolor": "#E700A7",
+    "title": "헬스케어의 마일스톤을 찍고 있습니다 🪨",
+    "day": "2024.03.20"
+  },
+  {
+    "id": 3,
+    "link": "#",
+    "imgpath": "c3.png",
+    "category": "Krew",
+    "icon": "ic_krew.png",
+    "txtcolor": "#E700A7",
+    "title": "규칙 없는 게 규칙, 카카오브레인 미니컨을 소개합니다 🙌",
+    "day": "2024.03.20"
+  }
+]

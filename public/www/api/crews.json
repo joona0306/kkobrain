@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "link": "#",
+    "imgpath": "c1.jpg",
+    "category": "LLMs",
+    "icon": "ic_llms.png",
+    "txtcolor": "#F96D6D",
+    "title": "Transformer 기반 AI 가속 프레임워크 ALiBi FlashAttention 공개",
+    "day": "2024.03.20"
+  },
+  {
+    "id": 2,
+    "link": "#",
+    "imgpath": "c2.png",
+    "category": "LLMs",
+    "icon": "ic_llms.png",
+    "txtcolor": "#F96D6D",
+    "title": "멀티모달 언어모델 오픈소스 프로젝트‘허니비’ 공개",
+    "day": "2024.03.20"
+  },
+  {
+    "id": 3,
+    "link": "#",
+    "imgpath": "c3.png",
+    "category": "Krew",
+    "icon": "ic_krew.png",
+    "txtcolor": "#E700A7",
+    "title": "Krew Interview ④ - '카카오브레인은 AI 신약연구 및 개발이라는 흐름에 제법 빨리 뛰어든 플레이어예요.'",
+    "day": "2024.03.20"
+  },
+  {
+    "id": 4,
+    "link": "#",
+    "imgpath": "c4.png",
+    "category": "Krew",
+    "icon": "ic_krew.png",
+    "txtcolor": "#E700A7",
+    "title": "Krew Interview ② - '카카오브레인의 도전은 말 그대로 진짜 ‘도전'이에요'",
+    "day": "2024.03.20"
+  }
+]

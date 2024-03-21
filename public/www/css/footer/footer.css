@@ -1,0 +1,131 @@
+.footer {
+  position: relative;
+  width: 100%;
+}
+.footer-top {
+  padding-top: 40px;
+  padding-bottom: 64px;
+  background: #1e1e1e;
+}
+.footer-info {
+  max-width: 550px;
+}
+.footer-info-logo {
+  width: 121px;
+  height: 20px;
+  display: inline-block;
+  margin-bottom: 30px;
+}
+.footer-info-logo img {
+  width: 100%;
+  height: auto;
+}
+.footer-info-txt {
+  margin-bottom: 40px;
+  font-style: 14px;
+  color: #999;
+}
+.footer-info-link {
+  height: 40px;
+  display: inline-block;
+  align-items: center;
+  padding: 0 20px;
+  background: #fec62c;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 40px;
+  color: #1e1e1e;
+  border-radius: 20px;
+}
+
+.footer-sitemap {
+  min-width: 400px;
+  display: flex;
+}
+.footer-sitemap ul {
+  width: 50%;
+}
+.footer-sitemap ul li {
+}
+.footer-sitemap ul li span {
+  display: block;
+  margin-bottom: 30px;
+  font-size: 1rem;
+  font-weight: 700;
+  color: #fff;
+}
+.footer-sitemap ul li a {
+  display: inline-block;
+  margin-bottom: 20px;
+  font-size: 14px;
+  color: #999;
+  text-transform: uppercase;
+}
+.footer-sitemap ul li a:hover {
+  text-decoration: underline;
+}
+
+/* 반응형 */
+@media screen and (max-width: 1024px) {
+  .footer-top {
+    padding-bottom: 24px;
+  }
+  .footer-top .inner {
+    flex-direction: column;
+  }
+  .footer-info {
+    max-width: 100%;
+    margin-bottom: 40px;
+  }
+}
+
+.footer-bottom {
+  background: #191919;
+}
+.footer-bottom .inner {
+  min-height: 100px;
+  align-items: center;
+  justify-content: space-between;
+}
+.copy {
+  font-size: 14px;
+  color: #666;
+}
+.footer-sns {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+.footer-sns li {
+  display: flex;
+  align-items: center;
+}
+.footer-sns li a {
+  font-size: 24px;
+  color: #fff;
+  transition: opacity 0.2s;
+  opacity: 0.5;
+}
+.footer-sns li a:hover {
+  color: #fff;
+  opacity: 1;
+}
+
+/* 반응형 */
+@media screen and (max-width: 1024px) {
+  .footer-bottom {
+    height: 150px;
+    padding: 30px 0;
+  }
+  .footer-bottom .inner {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .copy {
+    margin-bottom: 20px;
+  }
+
+  .footer-sns {
+    margin-bottom: 60px;
+  }
+}
